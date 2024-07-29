@@ -1,0 +1,11 @@
+C:\Users\owenn_xr8b\source\repos\ZooSimulator\ZooSimulator.Core\bin\Debug\net8.0\ZooSimulator.Core.deps.json
+C:\Users\owenn_xr8b\source\repos\ZooSimulator\ZooSimulator.Core\bin\Debug\net8.0\ZooSimulator.Core.dll
+C:\Users\owenn_xr8b\source\repos\ZooSimulator\ZooSimulator.Core\bin\Debug\net8.0\ZooSimulator.Core.pdb
+C:\Users\owenn_xr8b\source\repos\ZooSimulator\ZooSimulator.Core\obj\Debug\net8.0\ZooSimulator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owenn_xr8b\source\repos\ZooSimulator\ZooSimulator.Core\obj\Debug\net8.0\ZooSimulator.Core.AssemblyInfoInputs.cache
+C:\Users\owenn_xr8b\source\repos\ZooSimulator\ZooSimulator.Core\obj\Debug\net8.0\ZooSimulator.Core.AssemblyInfo.cs
+C:\Users\owenn_xr8b\source\repos\ZooSimulator\ZooSimulator.Core\obj\Debug\net8.0\ZooSimulator.Core.csproj.CoreCompileInputs.cache
+C:\Users\owenn_xr8b\source\repos\ZooSimulator\ZooSimulator.Core\obj\Debug\net8.0\ZooSimulator.Core.dll
+C:\Users\owenn_xr8b\source\repos\ZooSimulator\ZooSimulator.Core\obj\Debug\net8.0\refint\ZooSimulator.Core.dll
+C:\Users\owenn_xr8b\source\repos\ZooSimulator\ZooSimulator.Core\obj\Debug\net8.0\ZooSimulator.Core.pdb
+C:\Users\owenn_xr8b\source\repos\ZooSimulator\ZooSimulator.Core\obj\Debug\net8.0\ref\ZooSimulator.Core.dll

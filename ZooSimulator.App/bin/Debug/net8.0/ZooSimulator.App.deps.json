@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ZooSimulator.App/1.0.0": {
+        "dependencies": {
+          "ZooSimulator.Core": "1.0.0",
+          "ZooSimulator.Presentation": "1.0.0"
+        },
+        "runtime": {
+          "ZooSimulator.App.dll": {}
+        }
+      },
+      "ZooSimulator.Core/1.0.0": {
+        "runtime": {
+          "ZooSimulator.Core.dll": {}
+        }
+      },
+      "ZooSimulator.Presentation/1.0.0": {
+        "dependencies": {
+          "ZooSimulator.Core": "1.0.0"
+        },
+        "runtime": {
+          "ZooSimulator.Presentation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZooSimulator.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZooSimulator.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZooSimulator.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
